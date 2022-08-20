@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2909c4499b74f93ab4654c6dd3494a6, type: 3}
+  m_Name: WheatResourceConfig
+  m_EditorClassIdentifier: 
+  resourceName: 0
+  resourceModel: {fileID: 7517520908326570496, guid: 2f5d71439fec1ff46838295b26071051, type: 3}
+  resourceCost: 15
